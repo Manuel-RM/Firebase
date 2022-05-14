@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760454565418",
+    "project_id": "moviles-2022-primavera-37706",
+    "storage_bucket": "moviles-2022-primavera-37706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760454565418:android:69a78e7509387bbc937d53",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760454565418-u7smm86v3931bejd10741fimku0rj4h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy-8n6eJVF2po5mFZt592cRyDA2kvM4II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760454565418-u7smm86v3931bejd10741fimku0rj4h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
